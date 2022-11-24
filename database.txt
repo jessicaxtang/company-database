@@ -1,0 +1,20 @@
+Apple, Cupertino, California, 1976, 154000
+Amazon, Seattle, Washington, 1994, 1300000
+Costco, Issaquah, Washington, 1976, 288000
+Discord, San Francisco, California, 2012, 1200
+DoorDash, San Francisco, California, 2013, 6000
+Facebook, Menlo Park, California, 2004, 72000
+Google, Mountain View, California, 1998, 135000
+Instagram, Menlo Park, California, 2010, 450
+Jane Street, New York, New York, 1999, 1200
+Microsoft, Redmond, Washington, 1975, 181000
+Notion, San Francisco, California, 2012, 200
+LinkedIn, Sunnyvale, California, 2002, 18000
+Pinterest, San Francisco, California, 2010, 3200
+Slack, San Francisco, California, 2009, 1700
+Snapchat, Santa Monica, California, 2011, 3800
+Squarespace, New York, New York, 2003, 1100
+VSCO, Oakland, California, 2011, 155
+Walmart, Bentonville, Arkansas, 1962, 2200000
+Weebly, San Francisco, California, 2006, 350
+Zoom, San Jose, California, 2011, 6300
